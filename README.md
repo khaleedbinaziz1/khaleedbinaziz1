@@ -177,9 +177,9 @@ Open-source visual learning platform for mastering fullstack web development wit
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaleedbinaziz1/khaleedbinaziz1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaleedbinaziz1/khaleedbinaziz1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khaleedbinaziz1/khaleedbinaziz1/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaleedbinaziz1/khaleedbinaziz1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaleedbinaziz1/khaleedbinaziz1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/khaleedbinaziz1/khaleedbinaziz1/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
@@ -191,6 +191,8 @@ Open-source visual learning platform for mastering fullstack web development wit
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
+
+###
 
 **Email**: khaleedbinaziz@gmail.com  
 **Phone**: +880 1756922708  
