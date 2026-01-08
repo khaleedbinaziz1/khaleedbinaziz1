@@ -1,14 +1,6 @@
 # Khaled Bin Aziz
 
-```typescript
-const developer = {
-  role: "Full-Stack Developer",
-  experience: "3+ years",
-  status: "Building scalable web applications",
-  users: "5,000+",
-  current: "Pursuing MSc in CSE (AI/ML focus)"
-};
-```
+## Full-Stack Developer
 
 Full-Stack Engineer with **3+ years** of production experience architecting scalable web applications serving **5,000+ users**. Currently pursuing **MSc in Computer Science and Engineering** with research focus on AI/ML applications in healthcare and web technologies.
 
@@ -34,31 +26,25 @@ Full-Stack Engineer with **3+ years** of production experience architecting scal
 ### Full-Stack Developer @ [Pixentix Web Agency](https://www.pixentix.com/)
 **Remote | Nov 2024 – Present**
 
-```bash
-# Responsibilities
-- Built full-stack applications (e-commerce, website builder, ticket booking)
-- Implemented secure auth systems with MFA & RBAC
-- Optimized performance: 70% faster load times
-- Architected microservices: 50K+ daily requests, 99.9% uptime
-- Mentored junior devs on React.js, Next.js, modern JS patterns
-```
+- Architected full-stack applications for e-commerce, website builder, and ticket booking platforms
+- Implemented secure authentication systems with MFA (Multi-Factor Authentication) & RBAC (Role-Based Access Control)
+- Optimized application performance achieving 70% faster load times through code optimization and infrastructure improvements
+- Designed microservices architecture handling 50K+ daily requests with 99.9% uptime SLA
+- Mentored junior developers on React.js, Next.js, and modern JavaScript patterns & best practices
 
-**Stack**: `Next.js` | `React` | `Node.js` | `MongoDB` | `Express` | `TypeScript` | `Tailwind CSS`
+**Tech Stack**: Next.js | React | Node.js | MongoDB | Express | TypeScript | Tailwind CSS
 
 ---
 
 ### Full-Stack Developer @ [Better e-mart](https://betteremart.com/)
 **On-site | Apr 2024 – Sep 2024**
 
-```bash
-# Responsibilities
-- Architected e-commerce platform with product management & order processing
-- Implemented responsive storefront with intelligent search & filtering
-- Built reusable UI component library & analytics dashboard
-- Collaborated on scalable retail solutions with cross-functional teams
-```
+- Architected production e-commerce platform with product management & order processing systems
+- Built responsive storefront with intelligent search algorithms & advanced filtering capabilities
+- Developed reusable UI component library & analytics dashboard for store owners
+- Collaborated with cross-functional teams on scalable retail solutions using modern web technologies
 
-**Stack**: `Next.js` | `Redux` | `Node.js` | `MongoDB` | `Firebase Auth` | `Tailwind CSS`
+**Tech Stack**: Next.js | Redux | Node.js | MongoDB | Firebase Auth | Tailwind CSS
 
 **Live**: [betteremart.com](https://betteremart.com/)
 
@@ -66,17 +52,11 @@ Full-Stack Engineer with **3+ years** of production experience architecting scal
 
 ## 🎓 Education
 
-```yaml
-MSc in Computer Science and Engineering:
-  university: East Delta University
-  status: In Progress (Jan 2025 – Present)
-  focus: AI, Machine Learning, Deep Learning in healthcare & web tech
+**MSc in Computer Science and Engineering** | East Delta University | *Jan 2025 – Present*  
+Focus Areas: AI, Machine Learning, Deep Learning in healthcare & web technologies
 
-BSc in Computer Science and Engineering:
-  university: East Delta University
-  completed: Dec 2024
-  thesis: "Chest X-ray classification using hybrid MobileNet-DenseNet model"
-```
+**BSc in Computer Science and Engineering** | East Delta University | *Jan 2021 – Dec 2024*  
+Thesis: "Chest X-ray classification using hybrid MobileNet-DenseNet model"
 
 ---
 
@@ -115,84 +95,45 @@ BSc in Computer Science and Engineering:
 ## 🎯 Featured Projects
 
 ### [Kumira - Boat Ticketing Platform](https://kumiraguptachara.com/)
-```typescript
-// Full-stack boat ticket booking system
-const features = [
-  "Real-time availability updates",
-  "Role-based dashboards",
-  "Secure payment processing (Aamar Pay)"
-];
-```
+Full-stack boat ticket booking system with real-time availability updates, role-based dashboards, and secure payment processing via Aamar Pay API integration.
 
-**Stack**: `Next.js` | `Node.js` | `Express` | `MongoDB` | `Aamar Pay API`
+**Stack**: Next.js | Node.js | Express | MongoDB | Aamar Pay API
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kumiraguptachara.com/)
 
 ---
 
 ### [Better-e-mart - E-commerce Platform](https://betteremart.com/)
-```typescript
-// Production e-commerce solution
-const features = [
-  "Responsive storefront",
-  "Intelligent search & filtering",
-  "Analytics dashboard",
-  "Order management system"
-];
-```
+Production e-commerce solution with responsive storefront, intelligent search algorithms, analytics dashboard, and comprehensive order management system.
 
-**Stack**: `Next.js` | `Redux` | `Node.js` | `MongoDB` | `Firebase Auth` | `Tailwind CSS`
+**Stack**: Next.js | Redux | Node.js | MongoDB | Firebase Auth | Tailwind CSS
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://betteremart.com/)
 
 ---
 
 ### [TakaSphere - Gamified Financial Literacy](https://www.takasphere.com/)
-```typescript
-// Financial literacy platform with gamification
-const features = [
-  "Gamified learning experience",
-  "Interactive dashboards",
-  "Progress tracking",
-  "Clerk authentication"
-];
-```
+Financial literacy platform with gamified learning experience, interactive dashboards, progress tracking, and Clerk authentication integration.
 
-**Stack**: `Next.js` | `React.js` | `Tailwind CSS` | `Clerk`
+**Stack**: Next.js | React.js | Tailwind CSS | Clerk
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.takasphere.com/)
 
 ---
 
 ### [Pixentix Auto Pilot - E-commerce Website Builder](https://www.pixentix.com/)
-```typescript
-// Website builder with prebuilt Next.js components
-const features = [
-  "Create stores in < 10 minutes",
-  "Drag-and-drop selection",
-  "Payment integration",
-  "Responsive templates"
-];
-```
+Website builder leveraging prebuilt Next.js components. Enables creation of functional e-commerce stores in under 10 minutes with drag-and-drop selection and payment gateway integration.
 
-**Stack**: `Next.js` | `React` | `Node.js` | `MongoDB` | `Express` | `TypeScript` | `Tailwind CSS`
+**Stack**: Next.js | React | Node.js | MongoDB | Express | TypeScript | Tailwind CSS
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.pixentix.com/)
 
 ---
 
 ### [Open Stack JS - Visual Learning Platform](https://opentackjs.vercel.app/)
-```typescript
-// Open-source visual learning platform
-const features = [
-  "Interactive guides",
-  "Flow diagrams",
-  "40+ technology guides",
-  "Stack Builder tool"
-];
-```
+Open-source visual learning platform for mastering fullstack web development with interactive guides, flow diagrams, and Stack Builder tool covering 40+ technologies.
 
-**Stack**: `Next.js` | `React` | `TypeScript` | `Tailwind CSS`
+**Stack**: Next.js | React | TypeScript | Tailwind CSS
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://opentackjs.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaleedbinaziz1/openstackjs.git)
 
@@ -206,13 +147,10 @@ const features = [
 
 ## 🤝 Contact
 
-```bash
-# Get in touch
-email: khaleedbinaziz@gmail.com
-phone: +880 1756922708
-location: Kolpolok Abashik, Chittagong, Bangladesh
-```
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledbinaziz/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaleedbinaziz1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaleedbinaziz@gmail.com)
+
+**Email**: khaleedbinaziz@gmail.com  
+**Phone**: +880 1756922708  
+**Location**: Kolpolok Abashik, Chittagong, Bangladesh
