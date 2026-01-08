@@ -170,17 +170,22 @@ Open-source visual learning platform for mastering fullstack web development wit
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=khaleedbinaziz1&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=khaleedbinaziz1&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=khaleedbinaziz1&theme=tokyonight&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=khaleedbinaziz1&theme=tokyonight&no-frame=false&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaleedbinaziz1/khaleedbinaziz1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaleedbinaziz1/khaleedbinaziz1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/khaleedbinaziz1/khaleedbinaziz1/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaleedbinaziz1&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="github stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaleedbinaziz1&theme=tokyonight&hide_border=false&layout=compact" height="150" alt="top languages"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khaleedbinaziz1/khaleedbinaziz1/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+</div>
 
 ---
 
