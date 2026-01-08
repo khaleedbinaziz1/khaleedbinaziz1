@@ -1,12 +1,21 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<table>
+<tr>
+<td width="70%">
 
-<h3 align="center">Full-Stack Developer | TypeScript Enthusiast | Problem Solver</h3>
+# Hey 👋 What's Up?
+
+### Full-Stack Developer | TypeScript Enthusiast | Problem Solver
 
 Full-Stack Engineer with **3+ years** of production experience architecting scalable web applications serving **5,000+ users**. Currently pursuing **MSc in Computer Science and Engineering** with research focus on AI/ML applications in healthcare and web technologies.
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjExeDBvMHU1ZTNrc3Fxa2p0YXc1ZTRiNmRjYTU2dzhlczAxMnV2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="coding animation" width="500" />
-</div>
+</td>
+<td width="30%" align="right">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjExeDBvMHU1ZTNrc3Fxa2p0YXc1ZTRiNmRjYTU2dzhlczAxMnV2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="coding animation" width="150" />
+
+</td>
+</tr>
+</table>
 
 ---
 
