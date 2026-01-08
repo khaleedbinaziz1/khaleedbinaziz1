@@ -120,7 +120,7 @@ Open-source visual learning platform for mastering fullstack web development wit
 
 **Stack**: Next.js | React | TypeScript | Tailwind CSS
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://opentackjs.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaleedbinaziz1/openstackjs.git)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://opentackjs.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaleedbinaziz1/open-stack-js)
 
 ---
 
