@@ -4,49 +4,6 @@
 
 Full-Stack Engineer with **3+ years** of production experience architecting scalable web applications serving **5,000+ users**. Currently pursuing **MSc in Computer Science and Engineering** with research focus on AI/ML applications in healthcare and web technologies.
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-</div>
-
----
-
-## 🏆 Key Metrics
-
-<div align="center">
-
-![Projects Completed](https://img.shields.io/badge/Projects_Completed-15+-006400?style=for-the-badge&logo=github&logoColor=white)
-![Users Served](https://img.shields.io/badge/Users_Served-5,000+-008b8b?style=for-the-badge&logo=users&logoColor=white)
-![Performance Boost](https://img.shields.io/badge/Performance_Boost-70%25-cc6600?style=for-the-badge&logo=speedtest&logoColor=white)
-![Test Coverage](https://img.shields.io/badge/Test_Coverage-85%25-b8860b?style=for-the-badge&logo=testcafe&logoColor=white)
-![Daily Requests](https://img.shields.io/badge/Daily_Requests-50K+-6a5acd?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Years Experience](https://img.shields.io/badge/Years_Experience-3+-c71585?style=for-the-badge&logo=codacy&logoColor=white)
-
-</div>
-
 ---
 
 ## 💼 Work Experience
@@ -164,28 +121,6 @@ Open-source visual learning platform for mastering fullstack web development wit
 **Stack**: Next.js | React | TypeScript | Tailwind CSS
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://opentackjs.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaleedbinaziz1/openstackjs.git)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=khaleedbinaziz1&theme=tokyonight&hide_border=false" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=khaleedbinaziz1&theme=tokyonight&no-frame=false&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaleedbinaziz1&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="github stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaleedbinaziz1&theme=tokyonight&hide_border=false&layout=compact" height="150" alt="top languages"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/khaleedbinaziz1/khaleedbinaziz1/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
-</div>
 
 ---
 
