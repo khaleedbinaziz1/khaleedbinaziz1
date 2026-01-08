@@ -139,12 +139,6 @@ Open-source visual learning platform for mastering fullstack web development wit
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaleedbinaziz1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
----
-
 ## 🤝 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledbinaziz/)
