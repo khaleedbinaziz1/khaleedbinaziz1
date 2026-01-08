@@ -4,6 +4,10 @@
 
 Full-Stack Engineer with **3+ years** of production experience architecting scalable web applications serving **5,000+ users**. Currently pursuing **MSc in Computer Science and Engineering** with research focus on AI/ML applications in healthcare and web technologies.
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjExeDBvMHU1ZTNrc3Fxa2p0YXc1ZTRiNmRjYTU2dzhlczAxMnV2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="coding animation" width="500" />
+</div>
+
 ---
 
 ## 💼 Work Experience
