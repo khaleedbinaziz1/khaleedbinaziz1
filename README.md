@@ -1,12 +1,20 @@
 # Khaled Bin Aziz
 
-## Full-Stack Developer
+```typescript
+const developer = {
+  role: "Full-Stack Developer",
+  experience: "3+ years",
+  status: "Building scalable web applications",
+  users: "5,000+",
+  current: "Pursuing MSc in CSE (AI/ML focus)"
+};
+```
 
-Full-Stack Engineer with **2+ years** of production experience building scalable web applications serving **5,000+ users**. Currently pursuing **MSc in Computer Science and Engineering** with a research focus on AI/ML applications in healthcare and web technologies.
+Full-Stack Engineer with **3+ years** of production experience architecting scalable web applications serving **5,000+ users**. Currently pursuing **MSc in Computer Science and Engineering** with research focus on AI/ML applications in healthcare and web technologies.
 
 ---
 
-## 🏆 Key Achievements
+## 🏆 Key Metrics
 
 <div align="center">
 
@@ -15,44 +23,60 @@ Full-Stack Engineer with **2+ years** of production experience building scalable
 ![Performance Boost](https://img.shields.io/badge/Performance_Boost-70%25-cc6600?style=for-the-badge&logo=speedtest&logoColor=white)
 ![Test Coverage](https://img.shields.io/badge/Test_Coverage-85%25-b8860b?style=for-the-badge&logo=testcafe&logoColor=white)
 ![Daily Requests](https://img.shields.io/badge/Daily_Requests-50K+-6a5acd?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Years Experience](https://img.shields.io/badge/Years_Experience-2+-c71585?style=for-the-badge&logo=codacy&logoColor=white)
+![Years Experience](https://img.shields.io/badge/Years_Experience-3+-c71585?style=for-the-badge&logo=codacy&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
 ### Full-Stack Developer @ [Pixentix Web Agency](https://www.pixentix.com/)
 **Remote | Nov 2024 – Present**
 
-- Developed full-stack applications for e-commerce, website builder, and ticket booking platforms
-- Implemented secure authentication systems with multi-factor login and role-based access control
-- Optimized application performance, achieving 70% faster load times
-- Architected microservices handling 50K+ daily requests with 99.9% uptime
-- Mentored junior developers on React.js, Next.js, and modern JavaScript best practices
+```bash
+# Responsibilities
+- Built full-stack applications (e-commerce, website builder, ticket booking)
+- Implemented secure auth systems with MFA & RBAC
+- Optimized performance: 70% faster load times
+- Architected microservices: 50K+ daily requests, 99.9% uptime
+- Mentored junior devs on React.js, Next.js, modern JS patterns
+```
 
-**Technologies**: Next.js, React, Node.js, MongoDB, Express, TypeScript, Tailwind CSS
+**Stack**: `Next.js` | `React` | `Node.js` | `MongoDB` | `Express` | `TypeScript` | `Tailwind CSS`
 
-### Full-Stack Developer @ Better e-mart
+---
+
+### Full-Stack Developer @ [Better e-mart](https://betteremart.com/)
 **On-site | Apr 2024 – Sep 2024**
 
-- Built comprehensive e-commerce platform with product management and order processing
-- Implemented responsive storefront with intelligent search and filtering capabilities
-- Developed reusable UI components and analytics dashboard for store owners
-- Collaborated with cross-functional teams on scalable retail solutions
+```bash
+# Responsibilities
+- Architected e-commerce platform with product management & order processing
+- Implemented responsive storefront with intelligent search & filtering
+- Built reusable UI component library & analytics dashboard
+- Collaborated on scalable retail solutions with cross-functional teams
+```
 
-**Technologies**: Next.js, Redux, Node.js, MongoDB, Firebase Auth, Tailwind CSS
+**Stack**: `Next.js` | `Redux` | `Node.js` | `MongoDB` | `Firebase Auth` | `Tailwind CSS`
+
+**Live**: [betteremart.com](https://betteremart.com/)
 
 ---
 
 ## 🎓 Education
 
-**MSc in Computer Science and Engineering** | East Delta University | *Jan 2025 – Present*  
-Focus Areas: AI, Machine Learning, Deep Learning in healthcare and web technologies
+```yaml
+MSc in Computer Science and Engineering:
+  university: East Delta University
+  status: In Progress (Jan 2025 – Present)
+  focus: AI, Machine Learning, Deep Learning in healthcare & web tech
 
-**BSc in Computer Science and Engineering** | East Delta University | *Jan 2021 – Dec 2024*  
-Thesis: Chest X-ray classification using a hybrid MobileNet-DenseNet model
+BSc in Computer Science and Engineering:
+  university: East Delta University
+  completed: Dec 2024
+  thesis: "Chest X-ray classification using hybrid MobileNet-DenseNet model"
+```
 
 ---
 
@@ -91,56 +115,86 @@ Thesis: Chest X-ray classification using a hybrid MobileNet-DenseNet model
 ## 🎯 Featured Projects
 
 ### [Kumira - Boat Ticketing Platform](https://kumiraguptachara.com/)
-Full-stack boat ticket booking platform with real-time availability, role-based dashboards, and secure payment processing.
+```typescript
+// Full-stack boat ticket booking system
+const features = [
+  "Real-time availability updates",
+  "Role-based dashboards",
+  "Secure payment processing (Aamar Pay)"
+];
+```
 
-**Tech**: Next.js, Node.js, Express, MongoDB, Aamar Pay API
+**Stack**: `Next.js` | `Node.js` | `Express` | `MongoDB` | `Aamar Pay API`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kumiraguptachara.com/)
 
 ---
 
 ### [Better-e-mart - E-commerce Platform](https://betteremart.com/)
-Complete e-commerce solution with responsive storefront, intelligent search, analytics dashboard, and comprehensive order management.
+```typescript
+// Production e-commerce solution
+const features = [
+  "Responsive storefront",
+  "Intelligent search & filtering",
+  "Analytics dashboard",
+  "Order management system"
+];
+```
 
-**Tech**: Next.js, Redux, Node.js, MongoDB, Firebase Auth, Tailwind CSS
+**Stack**: `Next.js` | `Redux` | `Node.js` | `MongoDB` | `Firebase Auth` | `Tailwind CSS`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://betteremart.com/)
 
 ---
 
 ### [TakaSphere - Gamified Financial Literacy](https://www.takasphere.com/)
-Innovative financial literacy platform with gamified learning, interactive dashboards, and progress tracking.
+```typescript
+// Financial literacy platform with gamification
+const features = [
+  "Gamified learning experience",
+  "Interactive dashboards",
+  "Progress tracking",
+  "Clerk authentication"
+];
+```
 
-**Tech**: Next.js, React.js, Tailwind CSS, Clerk
+**Stack**: `Next.js` | `React.js` | `Tailwind CSS` | `Clerk`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.takasphere.com/)
 
 ---
 
 ### [Pixentix Auto Pilot - E-commerce Website Builder](https://www.pixentix.com/)
-Website builder using prebuilt Next.js components. Create functional e-commerce stores in under 10 minutes with drag-and-drop selection and payment integration.
+```typescript
+// Website builder with prebuilt Next.js components
+const features = [
+  "Create stores in < 10 minutes",
+  "Drag-and-drop selection",
+  "Payment integration",
+  "Responsive templates"
+];
+```
 
-**Tech**: Next.js, React, Node.js, MongoDB, Express, TypeScript, Tailwind CSS
+**Stack**: `Next.js` | `React` | `Node.js` | `MongoDB` | `Express` | `TypeScript` | `Tailwind CSS`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.pixentix.com/)
 
 ---
 
 ### [Open Stack JS - Visual Learning Platform](https://opentackjs.vercel.app/)
-Open-source visual learning platform for mastering fullstack web development with interactive guides and flow diagrams.
+```typescript
+// Open-source visual learning platform
+const features = [
+  "Interactive guides",
+  "Flow diagrams",
+  "40+ technology guides",
+  "Stack Builder tool"
+];
+```
 
-**Tech**: Next.js, React, TypeScript, Tailwind CSS
+**Stack**: `Next.js` | `React` | `TypeScript` | `Tailwind CSS`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://opentackjs.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaleedbinaziz1/openstackjs.git)
-
----
-
-## 🎓 Certifications
-
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Meta Front-End Developer](https://img.shields.io/badge/Meta_Front--End_Developer-0081FB?style=for-the-badge&logo=meta&logoColor=white)
-![Full Stack Web Development](https://img.shields.io/badge/Full_Stack_Web_Development-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![React Advanced Patterns](https://img.shields.io/badge/React_Advanced_Patterns-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
@@ -152,10 +206,13 @@ Open-source visual learning platform for mastering fullstack web development wit
 
 ## 🤝 Contact
 
+```bash
+# Get in touch
+email: khaleedbinaziz@gmail.com
+phone: +880 1756922708
+location: Kolpolok Abashik, Chittagong, Bangladesh
+```
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledbinaziz/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaleedbinaziz1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaleedbinaziz@gmail.com)
-
-**Email**: khaleedbinaziz@gmail.com  
-**Phone**: +880 1756922708  
-**Location**: Kolpolok Abashik, Chittagong, Bangladesh
